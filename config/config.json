@@ -1,0 +1,17 @@
+{
+    "license_features": [
+        {
+            "id": 123,
+            "name": "123",
+            "bitrix_load_path": "123",
+            "flash_save_path": "123"
+        },
+        {
+            "id": 132,
+            "name": "123",
+            "bitrix_load_path": "123",
+            "flash_save_path": "123"
+        }
+    ]
+}
+
